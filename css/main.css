@@ -1,0 +1,26 @@
+﻿/* import reset */
+@import url("reset.css");
+
+/* Main styles */
+body                    {font-family:Segoe UI, Helvetica, Sans-serif; background: #E23D79;}
+
+/* generics */
+.hidden                 {display:none;}
+a                       {padding: 3px 9px 5px; color:#fff; background:#000; text-decoration:none; text-transform:uppercase; font-weight: bold; letter-spacing:1px;}
+a:hover                 {color:#E23D79;}
+
+/* header */
+h1#logo                 {height:32px; padding:40px 40px; background:#fff; color: #000; font-size:32px; line-height:25px;}
+#dg_logo                {display:block; width:32px; height:32px; float:left; margin:0 10px 0 0; background:url(../img/dg-black.png) no-repeat center;}
+#gh_logo                {display:block; width:32px; height:32px; float:left; margin:0 10px 0 0; background:url(../img/blacktocat-32.png) no-repeat center;}
+#plus                   {float:left; margin:0 10px 0 0;}
+
+h2                      {margin: 0 0 20px; font-size:1.8em; font-weight: normal;}
+#repos                  {list-style:none;}
+#repos li               {margin: 0 0 25px;}
+h3                      {margin: 0 0 10px; font-weight: normal;}
+
+#pre_message            {margin:40px auto; padding:20px; width:860px; font-family:Georgia, serif; font-style:italic; background:#fff; color:#E23D79; text-align:center;}
+section                 {width:900px; margin:0 auto; color: #fff;}
+
+

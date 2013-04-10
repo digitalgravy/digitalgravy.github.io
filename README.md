@@ -1,4 +1,4 @@
-digitalgravy.github.com
+Digitalgravy Ltd. Github front-end
 =======================
 
-Digitalgravy Github front-end
+A playground for ideas and experiments.
